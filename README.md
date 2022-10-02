@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanket266
-- 👀 I’m interested in App devlopment and ML
+- 👀 I’m interested in ML and Data Science
 - 🌱 I’m currently learning python
 - 📫 How to reach me- sanketsamal266@gmail.com
 
